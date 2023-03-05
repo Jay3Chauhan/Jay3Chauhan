@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/jay3_chauhan" target="blank"><img src="https://img.shields.io/twitter/follow/jay3_chauhan?logo=twitter&style=for-the-badge" alt="jay3_chauhan" /></a> </p>
 
-- 🔭 I’m currently working on **Face detection project**
+- 🔭 I’m currently working on ** CEREMO project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://jay3chauhan.github.io/Portfolio/](https://jay3chauhan.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://jaychauhan.dev](https://jaychauhan.dev)
 
 - 📝 I regularly write articles on [https://medium.com/@cjay32338](https://medium.com/@cjay32338)
 
-- 📫 How to reach me **cjay32338@gmail.com**
+- 📫 How to reach me **support@jaychauhan.dev**
 
-- 📄 Know about my experiences [https://jay3chauhan.github.io/Portfolio/](https://jay3chauhan.github.io/Portfolio/)
+- 📄 Know about my experiences [https://jaychauhan.dev/](https://jaychauhan.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
