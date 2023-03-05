@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaychauhan.dev](https://jaychauhan.dev)
 
-- 📝 I regularly write articles on [https://medium.com/@cjay32338](https://medium.com/@cjay32338)
+- 📝 I regularly write articles on [https://blog.jaychauhan.me/](https://blog.jaychauhan.me/)
 
 - 📫 How to reach me **support@jaychauhan.dev**
 
