@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
+`<h1 align="center">Hi 👋, I'm Jay Chauhan</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay3chauhan&label=Profile%20views&color=0e75b6&style=flat" alt="jay3chauhan" /> </p>
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://jaychauhan.dev](https://jaychauhan.dev)
+- 👨‍💻 All of my projects are available at [https://jaychauhan.tech](https://jaychauhan.tech)
 
-- 📝 I regularly write articles on [https://blog.jaychauhan.me/](https://blog.jaychauhan.me/)
+- 📝 I regularly write articles on [https://blog.jaychauhan.tech/](https://blog.jaychauhan.tech/)
 
-- 📫 How to reach me **support@jaychauhan.dev**
+- 📫 How to reach me **support@jaychauhan.tech**
 
-- 📄 Know about my experiences [https://jaychauhan.dev/](https://jaychauhan.dev)
+- 📄 Know about my experiences [https://jaychauhan.tech/](https://jaychauhan.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
